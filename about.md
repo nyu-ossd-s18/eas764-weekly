@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello my name is Emilio!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a senior at NYU completing a major in computer science. I would like to work in software engineering or data science after college. 
 
+Outside of academics I like to cook and play video games (League of Legends mostly). 
