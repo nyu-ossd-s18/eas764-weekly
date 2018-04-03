@@ -6,6 +6,8 @@
 4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/10) | course website
 4 | Issue reported on the course website. [Here](https://github.com/joannakl/cs480_s18/issues/23) | course website
 4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/5) | course website
+10 | Article Edit on Wikipedia about the BMW M5. [Here](https://en.wikipedia.org/w/index.php?title=BMW_M5&diff=prev&oldid=833925955) | Wikipedia.
+
 
 
 
