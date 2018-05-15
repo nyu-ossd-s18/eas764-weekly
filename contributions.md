@@ -6,10 +6,10 @@
 4 | Issue reported on the course website. [Here](https://github.com/joannakl/cs480_s18/issues/23) | course website
 4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/5) | course website
 4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/10) | course website
-4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/10) | course website
-4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/10) | course website
-4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/10) | course website
-4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/10) | course website
+4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/11) | course website
+4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/16) | course website
+4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/27) | course website
+4 | Commented on issue for course website. [Here](https://github.com/joannakl/cs480_s18/issues/30) | course website
 10 | Article Edit on Wikipedia about the BMW M5. [Here](https://en.wikipedia.org/w/index.php?title=BMW_M5&diff=prev&oldid=833925955) | Wikipedia.
 | 15 | Edited [map](https://www.openstreetmap.org/changeset/58774526#map=19/40.72908/-73.98142&layers=N) | OpenStreetMap
 | 15 | Edited [map](https://www.openstreetmap.org/changeset/58774638#map=19/40.72879/-73.98167&layers=N) | OpenStreetMap
